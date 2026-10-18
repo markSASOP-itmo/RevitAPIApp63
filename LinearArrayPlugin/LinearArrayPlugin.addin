@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type ="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\LinearArrayPlugin.dll</Assembly>
+		<AddInId>3E9DA857-8B23-4E1B-91AC-39718536D269</AddInId>
+		<FullClassName>LinearArrayPlugin.LinearArrayCommand</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Расстановка объектов между точками</Text>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+	</AddIn>
+</RevitAddIns>
